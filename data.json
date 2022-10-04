@@ -1,0 +1,37 @@
+[
+    {
+        "judul":"Pantai Bonelohe",
+        "singkat":"Labuhan nelayan utara",
+        "deskripsi":"Pantai ini terletak dikawasan utara pulau selayar kira-kira 40KM dari kota Benteng yang merupakan ibu kota Kab. Kep. Selayar. Jika anda merupakan traveler yang datang dari makassar dan ke Selayar dengan jalur angkutan darat maka akan menemui lokasi ini terlebih dahulu dibandingkan kota Benteng. Pantai ini merupakan tempat sandar perahu nelayan dibagian utara, jadi sebenarnya pantai ini tidak dikhususkan untuk wisata. Namun karena kontur pantai yang putih dan panjang membuat lokasi ini sering disinggahi para penduduk untuk sekedar melepas penat di akhir minggu.",
+        "map":"https://goo.gl/maps/DVw2qCuzx4tC97Dh6",
+        "gambar":"bonelohe.jpeg"
+    },
+    {
+        "judul":"Pantai Batulohe",
+        "singkat":"Relief batu oleh alam",
+        "deskripsi":"Sesuai dengan tipikal pantai diwilayah timur kepulauan selayar yang banyak memiliki karang dan cenderung terjal, pantai batulohe memiliki batas pantai yang pendek dan dibatasi oleh tebing karang yang tinggi. Pada pantai ini karang batu yang sudah ada ratusan lalu ditempa oleh angin dan air membentuk ukiran semacam relief. Hal ini lah yang menjadi keunikan dari pantai ini. Untuk ketempat ini harus mempersiapkan tenaga ekstra dikarenakan harus menempuh perjalanan kaki selama kurang lebih satu jam.",
+        "map":"https://goo.gl/maps/4AdZ8t8P4TMZKZrP8",
+        "gambar":"batulohe.jpg"
+    },
+    {
+        "judul":"Pulau Tinabo",
+        "singkat":"Bermain dengan baby shark",
+        "deskripsi":"Pulau tinabo merupakan destinasi utama jika berkunjung ke kawasan taka bonerate. Jaraknya adalah 5 jam perjalanan kapal dari pulau selayar. Memang sangat jauh, namun keindahan yang ditawarkan dikawasan ini membuat perjalanan tersebut terbayarkan. Di pulau ini anda bisa bermain dengan bayi hiu yang secara rutin mengunjungi pulau ini di pagi hari. Pengunjung dapat berfoto dari dekat bersama hiu tanpa harus melakukan snorkeling ataupun diving. Gugusan karang di sekitar pulau ini juga sangat terawat sehingga kita dapat menemui berbagai macam biota laut disana.",
+        "map":"https://goo.gl/maps/PmN373teK7jJZYMJA",
+        "gambar":"tinabo.jpeg"
+    },
+    {
+        "judul":"Bukit Nane",
+        "singkat":"Bukit rumput pembelah barat dan timur",
+        "deskripsi":"Bukit nane berada dipulau polassi yang berada 3 jam dari pulau selayar. Tipikal bukti nane ini mirip dengan destinasi Bukit Cinta di Labuan Bajo. Kalo ketempat ini diharapkan agar sedikit berhati-hati dikarenakan daerah puncak bukit sangat sempit. Dari puncak bukti nane yang membentang dari ujung utara sampai ujung selatan pulau polassi kita dapat melihat lautan pada sisi timur dan barat. Destinasi ini paling baik dikunjungi pada bulan april dan oktober untuk mengindari ombak yang tinggi.",
+        "map":"https://goo.gl/maps/pjiz11P4ycP4z3rx8",
+        "gambar":"bukitnane.jpg"
+    },
+    {
+        "judul":"Makam Karang",
+        "singkat":"Gurita raksasa pengumpul karang",
+        "deskripsi":"Daratan ini terletak disebelah selatan pulau selayar. Tempat ini terbentuk dari kumpulan karang mati yang menggunung ditengah daerah pertemuan arus barat dan timur. Dilokasi ini sering terjadi pusaran air yang tidak terlalu besar. Karena dasarnya memang hanya kumpulan karang mati, jadi bentuk dari daratan ini setiap saat selalu berubah. Kadang akan membentuk dataran yang luas, atau terkadang daratan yang memanjang namun tipis. Mitos ditempat ini adalah daratan ini merupakan tempat tinggal dari seekor Gurita raksasa.",
+        "map":"https://goo.gl/maps/jCSXqiRof5fxw7CVA",
+        "gambar":"makamkarang.jpeg"
+    }
+]
